@@ -9,7 +9,7 @@
   - [React Native Swipe Gestures](https://www.npmjs.com/package/react-native-swipe-gestures)
   - [React Native Gesture Handler](https://www.npmjs.com/package/react-native-gesture-handler)
   - [Axios](https://www.npmjs.com/package/react-native-axios)
-  - Demais bibliotecas detalhadas no [`package.json`](LINK)
+  - Demais bibliotecas detalhadas no [`package.json`]([LINK](https://github.com/fsaantiago/Mobile_SPTrans_OlhoVivo/tree/main/package.json)
 
 ## 📐 ARQUITETURA 
 O aplicativo foi construído utilizando uma arquitetura componentizada conforme estrutura abaixo:
@@ -36,7 +36,7 @@ O aplicativo foi construído utilizando uma arquitetura componentizada conforme 
 
 ## 🖼️ FUNCIONAMENTO  
 
-  <img src="GIF" width="200" height="400">
+  <img src="https://github.com/fsaantiago/Mobile_SPTrans_OlhoVivo/blob/main/assets/images/SPTrans_OlhoVivo.gif" width="200" height="400">
 
 ## 🚀 EXECUTANDO O PROJETO  
 Para executar o aplicativo localmente é necessário seguir os passos abaixo:
