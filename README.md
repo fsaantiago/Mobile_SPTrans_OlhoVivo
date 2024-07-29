@@ -1,5 +1,5 @@
 ## 🦾 PROJETO 
-**Aplicação mobile que integre a API da SPTrans e implemente recursos úteis para os usuários, conforme direcionamentos repassados pela empresa.
+**Aplicação mobile** que integre a API da SPTrans e implemente recursos úteis para os usuários, conforme direcionamentos repassados pela empresa.
 
 ## 🛠️ TECNOLOGIAS 
 - **Expo (v51.0.0):** IDE para desenvolvimento de aplicativos mobile em Android, iOS, entre outros.
